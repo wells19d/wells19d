@@ -2,23 +2,15 @@
 
 ## Introduction
 
-I'm AJ Wells, a Front End Developer with three-plus years of experience specializing in React, React Native, TypeScript, and JavaScript. I'm passionate about building dynamic web and mobile applications that enhance user engagement and experience.
-
-## My Journey
-
-Starting in 2004 with HTML and CSS, I've navigated through various technologies, including Adobe Flash. After a break, I returned stronger in 2021 by completing a Full Stack Development Bootcamp, sharpening my skills in modern development tools and technologies like React, Express, and Node.js, among others.
+I'm AJ Wells, a seasoned Front End Developer skilled in React, React Native, TypeScript, and JavaScript. My journey began in 2004 with HTML and CSS, evolving through technologies like Adobe Flash. After a hiatus, I re-entered the tech scene in 2021, graduating from a Full Stack Development Bootcamp. This experience refined my proficiency in contemporary development tools and frameworks, fueling my passion for crafting engaging web and mobile solutions.
 
 ## Professional Experience
 
 From August 2021 to July 2023, I led Front End Development for a cattle management company, creating applications in React and React Native and expanding my expertise in technologies like TypeScript and MongoDB.
 
-## Current Experience
+## Current Focus & Aspirations
 
-Since August 2023, I've been focusing on personal projects, including a React Native shopping cart/recipe app, and exploring backend development with Supabase and AI possibilities with Chat GPT.
-
-## Looking to the Future
-
-Eager to continue learning and growing, I'm on the lookout for new challenges and opportunities that allow me to leverage cutting-edge technologies. I aim to contribute to meaningful projects and collaborate with teams and individuals who share a vision for innovation.
+Since August 2023, I've dedicated my time to personal projects like a React Native shopping cart/recipe app and delved into backend development with Supabase, alongside exploring AI with Chat GPT. My drive for continuous learning keeps me in search of innovative challenges and opportunities. I'm keen to apply cutting-edge technologies in meaningful projects, aiming for impactful collaboration with visionary teams and individuals.
 
 ## Technical Skills
 
