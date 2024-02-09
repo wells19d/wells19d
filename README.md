@@ -2,29 +2,23 @@
 
 ## Introduction
 
-Hello! My name is AJ Wells. As a Front End Developer, I bring over three years of dedicated experience in creating engaging, user-friendly interfaces. My expertise spans React, React Native, TypeScript, and JavaScript, ensuring robust and dynamic web and mobile applications.
+I'm AJ Wells, a Front End Developer with three-plus years of experience specializing in React, React Native, TypeScript, and JavaScript. I'm passionate about building dynamic web and mobile applications that enhance user engagement and experience.
 
 ## My Journey
 
-I embarked on my development journey in 2004, starting with HTML and CSS before exploring Adobe Flash. After a hiatus in 2008 to broaden my skill set, I returned to development in 2021 by joining a Full Stack Development Bootcamp. This program, running from April to July 2021, significantly enhanced my skills in tools and technologies such as VSCode, JavaScript, jQuery, React, Express, Redux, PostgreSQL, NPM, Node.js, Nodemon, Git, GitHub, and Material UI.
+Starting in 2004 with HTML and CSS, I've navigated through various technologies, including Adobe Flash. After a break, I returned stronger in 2021 by completing a Full Stack Development Bootcamp, sharpening my skills in modern development tools and technologies like React, Express, and Node.js, among others.
 
 ## Professional Experience
 
-Between August 2021 and July 2023, I took on a pivotal role as the Leading Front End Developer for a cattle management company, where I was responsible for building two applications in React and React Native. This experience allowed me to lead UX/UI and graphics development, broadening my expertise in TypeScript, React Native, MongoDB, Realm, XCode, and Android Studio.
+From August 2021 to July 2023, I led Front End Development for a cattle management company, creating applications in React and React Native and expanding my expertise in technologies like TypeScript and MongoDB.
 
 ## Current Experience
 
-In August 2023, I transitioned from my professional role to focus on personal projects and exploring new opportunities. Currently, I am developing a shopping cart/recipe app in React Native, leveraging Supabase for backend services due to expand my knowledge in backend development. Additionally, I'm venturing into the AI realm, experimenting with Chat GPT to discover innovative application possibilities.
+Since August 2023, I've been focusing on personal projects, including a React Native shopping cart/recipe app, and exploring backend development with Supabase and AI possibilities with Chat GPT.
 
 ## Looking to the Future
 
-I am deeply committed to continuous learning and growth in the field of Front End Development. My current focus is on absorbing as much knowledge as possible from a variety of resources and influences. Whether it's through personal projects, online courses, or community engagement, I am always seeking opportunities to expand my skill set and adapt to the evolving landscape of technology.
-
-As I look ahead, I am excited about the prospect of embarking on new professional adventures that will challenge me and further my development career. I am particularly interested in projects that leverage cutting-edge technologies and innovative approaches to solve real-world problems. My goal is to contribute to meaningful projects that have a positive impact, while also pushing the boundaries of my own capabilities.
-
-I am open to collaborations, freelance opportunities, and roles that will allow me to bring my unique blend of skills to new teams and projects. If you are looking for a dedicated, creative, and technically skilled Front End Developer, please feel free to reach out to discuss how we can work together on future projects.
-
-Thank you for taking the time to learn about my journey and aspirations. I look forward to the possibilities that lie ahead and the chance to make a significant contribution to the tech community. Feel free to look around my public open projects.
+Eager to continue learning and growing, I'm on the lookout for new challenges and opportunities that allow me to leverage cutting-edge technologies. I aim to contribute to meaningful projects and collaborate with teams and individuals who share a vision for innovation.
 
 ## Technical Skills
 
