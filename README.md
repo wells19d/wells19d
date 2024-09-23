@@ -10,7 +10,7 @@ From August 2021 to July 2023, I led Front End Development for a cattle manageme
 
 ## Current Focus & Aspirations
 
-Since August 2023, I've dedicated my time to personal projects like a React Native shopping cart/recipe app and delved into backend development with Supabase, alongside exploring AI with Chat GPT. My drive for continuous learning keeps me in search of innovative challenges and opportunities. I'm keen to apply cutting-edge technologies in meaningful projects, aiming for impactful collaboration with visionary teams and individuals.
+Since August 2023, I've dedicated my time to personal projects like a React Native shopping cart/recipe app and delved into backend development with Supabase and Firebase, alongside exploring AI with Chat GPT. My drive for continuous learning keeps me in search of innovative challenges and opportunities. I'm keen to apply cutting-edge technologies in meaningful projects, aiming for impactful collaboration with visionary teams and individuals.
 
 ## Technical Skills
 
