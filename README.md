@@ -47,6 +47,7 @@ Since August 2023, I've dedicated my time to personal projects like a React Nati
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=234ea94b)
 ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&labelColor=black&logo=realm&logoColor=39477F)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&labelColor=black&logo=supabase&logoColor=3ECF8E)
+![FireBase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffcd34)
 
 ### Design Tools / OS's:
 
