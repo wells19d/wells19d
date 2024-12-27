@@ -6,7 +6,7 @@ I'm AJ Wells, a seasoned Front End Developer skilled in React, React Native, Typ
 
 ## Professional Experience
 
-From August 2021 to July 2023, I led Front End Development for a cattle management company, creating applications in React and React Native and expanding my expertise in technologies like TypeScript and MongoDB.
+From August 2021 to July 2023, I led Front End Design for a cattle management company, creating applications in React and React Native and expanding my expertise in technologies like TypeScript and MongoDB.
 
 ## Current Focus & Aspirations
 
