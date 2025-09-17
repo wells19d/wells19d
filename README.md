@@ -37,6 +37,7 @@ Since August 2023, I've dedicated my time to personal projects like a React Nati
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078d7)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&labelColor=black&logo=Xcode&logoColor=007ACC)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&labelColor=black&logo=android-studio&logoColor=3DDC84)
 ![Git](https://img.shields.io/badge/Git-E84D31?style=for-the-badge&labelColor=black&logo=git&logoColor=E84D31)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&labelColor=black&logo=github&logoColor=white)
