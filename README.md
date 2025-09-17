@@ -41,7 +41,6 @@ Since August 2023, I've dedicated my time to personal projects like a React Nati
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&labelColor=black&logo=android-studio&logoColor=3DDC84)
 ![Git](https://img.shields.io/badge/Git-E84D31?style=for-the-badge&labelColor=black&logo=git&logoColor=E84D31)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&labelColor=black&logo=github&logoColor=white)
-![Algolia](https://img.shields.io/badge/Algolia-5468FF?style=for-the-badge&labelColor=black&logo=algolia&logoColor=5468FF)
 
 ### Backend / Databases:
 
@@ -50,6 +49,7 @@ Since August 2023, I've dedicated my time to personal projects like a React Nati
 ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&labelColor=black&logo=realm&logoColor=39477F)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&labelColor=black&logo=supabase&logoColor=3ECF8E)
 ![FireBase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffcd34)
+![Algolia](https://img.shields.io/badge/Algolia-5468FF?style=for-the-badge&labelColor=black&logo=algolia&logoColor=5468FF)
 
 ### Design Tools / OS's:
 
