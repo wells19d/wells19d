@@ -41,8 +41,9 @@ Since August 2023, I've dedicated my time to personal projects like a React Nati
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&labelColor=black&logo=android-studio&logoColor=3DDC84)
 ![Git](https://img.shields.io/badge/Git-E84D31?style=for-the-badge&labelColor=black&logo=git&logoColor=E84D31)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&labelColor=black&logo=github&logoColor=white)
+![Algolia](https://img.shields.io/badge/Algolia-5468FF?style=for-the-badge&labelColor=black&logo=algolia&logoColor=5468FF)
 
-### Databases:
+### Backend / Databases:
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=23316192)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=234ea94b)
