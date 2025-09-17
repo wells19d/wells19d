@@ -57,5 +57,5 @@ Since August 2023, I've dedicated my time to personal projects like a React Nati
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&labelColor=black&logo=adobe%20photoshop&logoColor=2331A8FF)
 ![ChatGPT](https://img.shields.io/badge/chat_GPT-74aa9c?style=for-the-badge&labelColor=black&logo=openai&logoColor=74aa9c)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&labelColor=black&logo=android&logoColor=3DDC84)
-![mac](https://img.shields.io/badge/iOS_/_oSX-%23000000.svg?style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&labelColor=black&logo=windows&logoColor=0078D6)
