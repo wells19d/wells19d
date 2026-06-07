@@ -1,4 +1,4 @@
-# AJ Wells - Front End Developer
+# AJ Wells - Software Developer
 
 ## Introduction
 
