@@ -12,6 +12,8 @@ From August 2021 to July 2023, I led Front End Design for a cattle management co
 
 Since August 2023, I've dedicated my time to personal projects like a React Native shopping cart/recipe app and delved into backend development with Supabase and Firebase, alongside exploring AI with Chat GPT. My drive for continuous learning keeps me in search of innovative challenges and opportunities. I'm keen to apply cutting-edge technologies in meaningful projects, aiming for impactful collaboration with visionary teams and individuals.
 
+2025 & Beyond: I’ve continued expanding beyond front-end development through hands-on projects. I’ve built cross-platform applications with React Native, developed a web API using .NET and C#, and am currently learning Python and Flask by building a browser-based text adventure from the ground up. These projects have helped me strengthen my understanding of application structure, backend development, APIs, state management, and reusable systems while continuing to grow as a well-rounded software developer.
+
 ## Technical Skills
 
 ### Languages:
@@ -20,6 +22,7 @@ Since August 2023, I've dedicated my time to personal projects like a React Nati
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&labelColor=black&logo=csharp&logoColor=239120)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
 
 ### Frameworks:
 
@@ -32,6 +35,7 @@ Since August 2023, I've dedicated my time to personal projects like a React Nati
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&labelColor=black&logo=jquery&logoColor=0769AD)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-780FF1?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=780FF1)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&labelColor=black&logo=mui&logoColor=230081CB)
+![Flask](https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&labelColor=black&logo=flask&logoColor=ffffff)
 
 ### IED's / VC's:
 
