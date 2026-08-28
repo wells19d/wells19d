@@ -14,7 +14,7 @@ Since August 2023, I've dedicated my time to personal projects like a React Nati
 
 2025 & Beyond: I’ve continued expanding beyond front-end development through hands-on projects. I’ve built cross-platform applications with React Native, developed a web API using .NET and C#, and am currently learning Python and Flask by building a browser-based text adventure from the ground up. These projects have helped me strengthen my understanding of application structure, backend development, APIs, state management, and reusable systems while continuing to grow as a well-rounded software developer.
 
-Currently: I'm working on two projects. First, I'm building a Zork-inspired, text based game, using Flask, Python, and JavaScript. Mainly using in a web browser, but maybe later in a mobile setup. Second, I'm working on a home task management / reward system for my family using React-Native, TypeScript, and Firebase. Currently will only be supported by iOS.
+Currently: I'm starting my Computer Science path at North Dakota State University, working toward a stronger formal foundation in programming, UNIX, and modern software development with AI tools. Alongside my NDSU coursework, I'm planning additional self-study in Python, C++, and Video Game Design & Development. I'm also still working on a Zork-inspired, text-based game, using Flask, Python, and JavaScript, with plans to keep expanding and refining the project as my skills grow.
 
 ## Technical Skills
 
