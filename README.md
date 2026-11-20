@@ -8,13 +8,21 @@ I'm AJ Wells, a seasoned Front End Developer skilled in React, React Native, Typ
 
 From August 2021 to July 2023, I led Front End Design for a cattle management company, creating applications in React and React Native and expanding my expertise in technologies like TypeScript and MongoDB.
 
+
 ## Current Focus & Aspirations
 
-Since August 2023, I've dedicated my time to personal projects like a React Native shopping cart/recipe app and delved into backend development with Supabase and Firebase, alongside exploring AI with Chat GPT. My drive for continuous learning keeps me in search of innovative challenges and opportunities. I'm keen to apply cutting-edge technologies in meaningful projects, aiming for impactful collaboration with visionary teams and individuals.
+Since August 2023, I've continued expanding my development skills through personal projects and independent study. My work includes React Native applications, backend development with C#/.NET, Supabase, and Firebase, and a Zork-inspired text adventure developed with Python, Flask, and JavaScript.
 
-2025 & Beyond: I’ve continued expanding beyond front-end development through hands-on projects. I’ve built cross-platform applications with React Native, developed a web API using .NET and C#, and am currently learning Python and Flask by building a browser-based text adventure from the ground up. These projects have helped me strengthen my understanding of application structure, backend development, APIs, state management, and reusable systems while continuing to grow as a well-rounded software developer.
+**2026 & Beyond:** In Fall 2026, I returned to North Dakota State University (NDSU) to strengthen my computer science foundation. What began as a plan to complete a few courses and earn a certificate has evolved into a larger commitment.
 
-Currently: I'm starting my Computer Science path at North Dakota State University, working toward a stronger formal foundation in programming, UNIX, and modern software development with AI tools. Alongside my NDSU coursework, I'm planning additional self-study in Python, C++, and Video Game Design & Development. I'm also still working on a Zork-inspired, text-based game, using Flask, Python, and JavaScript, with plans to keep expanding and refining the project as my skills grow.
+I'm now officially pursuing a **Bachelor of Science in Computer Science, with a minor in Software Development**.
+
+Alongside my coursework, I'm involved with **Bison Robotics / NASA Lunabotics**, gaining experience with robotics, programming, and collaborative engineering projects. I'm also continuing my independent learning in Python, C++, and game development.
+
+My long-term interests focus on developing better graphical user interfaces for software applications and video games, combining my front-end development experience with a deeper understanding of software engineering and system architecture.
+
+Eventually, I'd also like to share my experience by teaching programming and technology to younger generations.
+
 
 ## Technical Skills
 
