@@ -30,6 +30,8 @@ My long-term interests are focused on developing better graphical user interface
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&labelColor=black&logo=csharp&logoColor=239120)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=ED8B00)
+
 
 ### Frameworks:
 
@@ -52,6 +54,8 @@ My long-term interests are focused on developing better graphical user interface
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&labelColor=black&logo=android-studio&logoColor=3DDC84)
 ![Git](https://img.shields.io/badge/Git-E84D31?style=for-the-badge&labelColor=black&logo=git&logoColor=E84D31)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&labelColor=black&logo=github&logoColor=white)
+![NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&labelColor=black&logo=apachenetbeans&logoColor=1B6AC6)
+
 
 ### Backend / Databases:
 
