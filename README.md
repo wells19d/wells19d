@@ -21,56 +21,55 @@ My long-term interests are focused on developing better graphical user interface
 
 
 
+
 ## Technical Skills
 
 ### Languages:
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&labelColor=black&logo=csharp&logoColor=239120)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
+![Typescript](https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=black&logo=css&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&labelColor=black&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=ED8B00)
-
 
 ### Frameworks:
 
-![React](https://img.shields.io/badge/-React/React_Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Express.js](https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&labelColor=black&logo=express&logoColor=ffffff)
-![Redux](https://img.shields.io/badge/Redux-7248B6?style=for-the-badge&labelColor=black&logo=redux&logoColor=7248B6)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&labelColor=black&logo=npm&logoColor=23CB3837)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&labelColor=black&logo=yarn&logoColor=232C8EBB)
-![Nodejs](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&labelColor=black&logo=jquery&logoColor=0769AD)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-780FF1?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=780FF1)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&labelColor=black&logo=mui&logoColor=230081CB)
-![Flask](https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&labelColor=black&logo=flask&logoColor=ffffff)
+![React](https://img.shields.io/badge/React%20%2F%20React%20Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Express.js](https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&labelColor=black&logo=express&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-7248B6?style=for-the-badge&labelColor=black&logo=redux&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&labelColor=black&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&labelColor=black&logo=yarn&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&labelColor=black&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-780FF1?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&labelColor=black&logo=mui&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)
 
-### IED's / VC's:
+### IDEs / Version Control:
 
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078d7)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&labelColor=black&logo=Xcode&logoColor=007ACC)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&labelColor=black)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&labelColor=black&logo=xcode&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&labelColor=black&logo=android-studio&logoColor=3DDC84)
-![Git](https://img.shields.io/badge/Git-E84D31?style=for-the-badge&labelColor=black&logo=git&logoColor=E84D31)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&labelColor=black&logo=github&logoColor=white)
-![NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&labelColor=black&logo=apachenetbeans&logoColor=1B6AC6)
-
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&labelColor=black&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E84D31?style=for-the-badge&labelColor=black&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&labelColor=black&logo=github&logoColor=white)
+![NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&labelColor=black&logo=apachenetbeanside&logoColor=white)
 
 ### Backend / Databases:
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=23316192)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=234ea94b)
-![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&labelColor=black&logo=realm&logoColor=39477F)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&labelColor=black&logo=supabase&logoColor=3ECF8E)
-![FireBase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffcd34)
-![Algolia](https://img.shields.io/badge/Algolia-5468FF?style=for-the-badge&labelColor=black&logo=algolia&logoColor=5468FF)
+![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&labelColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&labelColor=black&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-A08021?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCD34)
+![Algolia](https://img.shields.io/badge/Algolia-5468FF?style=for-the-badge&labelColor=black&logo=algolia&logoColor=white)
 
 ### Design Tools / OS's:
 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&labelColor=black&logo=adobe%20illustrator&logoColor=23FF9A00)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&labelColor=black&logo=adobe%20photoshop&logoColor=2331A8FF)
-![ChatGPT](https://img.shields.io/badge/chat_GPT-74aa9c?style=for-the-badge&labelColor=black&logo=openai&logoColor=74aa9c)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&labelColor=black&logo=android&logoColor=3DDC84)
-![mac](https://img.shields.io/badge/iOS_/_oSX-%23000000.svg?style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&labelColor=black&logo=windows&logoColor=0078D6)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&labelColor=black)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&labelColor=black)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&labelColor=black&logo=openai&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&labelColor=black&logo=android&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&labelColor=black&logo=windows11&logoColor=white)
