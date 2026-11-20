@@ -13,15 +13,12 @@ From August 2021 to July 2023, I led Front End Design for a cattle management co
 
 Since August 2023, I've continued expanding my development skills through personal projects and independent study. My work includes React Native applications, backend development with C#/.NET, Supabase, and Firebase, and a Zork-inspired text adventure developed with Python, Flask, and JavaScript.
 
-**2026 & Beyond:** In Fall 2026, I returned to North Dakota State University (NDSU) to strengthen my computer science foundation. What began as a plan to complete a few courses and earn a certificate has evolved into a larger commitment.
+**2026 & Beyond:** In Fall 2026, I returned to North Dakota State University (NDSU) to strengthen my computer science foundation. What began as a plan to complete a few courses and earn a certificate has evolved into a larger commitment. I'm now officially pursuing a **Bachelor of Science in Computer Science, with a minor in Software Development**.
 
-I'm now officially pursuing a **Bachelor of Science in Computer Science, with a minor in Software Development**.
+Alongside my coursework, I'm involved with **Bison Robotics / NASA Lunabotics**, gaining experience with robotics, programming, and collaborative engineering projects.
 
-Alongside my coursework, I'm involved with **Bison Robotics / NASA Lunabotics**, gaining experience with robotics, programming, and collaborative engineering projects. I'm also continuing my independent learning in Python, C++, and game development.
+My long-term interests focus on developing better graphical user interfaces for software applications and video games, combining my front-end development experience with a deeper understanding of software engineering and system architecture. Eventually, I'd also like to explore game development further or share my experience by teaching programming and technology to younger generations.
 
-My long-term interests focus on developing better graphical user interfaces for software applications and video games, combining my front-end development experience with a deeper understanding of software engineering and system architecture.
-
-Eventually, I'd also like to share my experience by teaching programming and technology to younger generations.
 
 
 ## Technical Skills
