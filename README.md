@@ -17,7 +17,7 @@ Since August 2023, I've continued expanding my development skills through person
 
 Alongside my coursework, I'm involved with **Bison Robotics / NASA Lunabotics**, gaining experience with robotics, programming, and collaborative engineering projects.
 
-My long-term interests focus on developing better graphical user interfaces for software applications and video games, combining my front-end development experience with a deeper understanding of software engineering and system architecture. Eventually, I'd also like to explore game development further or share my experience by teaching programming and technology to younger generations.
+My long-term interests are focused on developing better graphical user interfaces for software applications and video games, combining my front-end development experience with a deeper understanding of software engineering and system architecture. Eventually, I'd also like to explore game development further or share my experience by teaching programming and technology to younger generations.
 
 
 
